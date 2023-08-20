@@ -3,7 +3,7 @@ function limpa_formulario_cep() {
 }
 function meu_callback(conteudo) {
     if (!("erro" in conteudo)) {
-        document.getElementById('endereco').value = (`${conteudo.logradouro} - ${conteudo.localidade} - ${conteudo.uf}`);
+        document.getElementById('rua').value = (`${conteudo.logradouro} - ${conteudo.localidade} - ${conteudo.uf}`);
     } 
     else {
         limpa_formulario_cep();
