@@ -17,6 +17,8 @@ Desenvolvido em Desenvolvido em ASP.NET MVC usando C#, TypeScript, Angular, e SQ
   Imagens:
   + Tela Inicial:
   ![telaInicial](https://github.com/LSaints/ASPNetMVCFornecedorCRUD/assets/132153413/96802886-4b60-4eea-8174-370593bc4334)
+  + Listagem:
+  ![Listagem](https://github.com/LSaints/ASPNetMVCFornecedorCRUD/assets/132153413/b87f01a5-118b-4755-981b-1ce943c277f3)
   + Adicionar um novo Fornecedor:
   ![add](https://github.com/LSaints/ASPNetMVCFornecedorCRUD/assets/132153413/626bbef9-8808-4350-9076-a36987fab477)
   + Editar um Fornecedor:
