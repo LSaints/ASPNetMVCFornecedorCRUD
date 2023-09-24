@@ -1,4 +1,4 @@
-# Gerenciamento de Fornecedores - ASP.NET MVC, TypeScript, e Angular CRUD
+# Gerenciamento de Fornecedores - ASP.NET MVC, Javascript, Bootstrap e SQLServer
 Uma Aplicação de gerenciamento de fornecedores, permitindo o controle simplificado das informações sobre seus fornecedores.
 Desenvolvido em ASP.NET MVC usando C#, Angular, e SQLServer como banco de dados, este sistema oferece um ambiente eficiente para criar, ler, atualizar e excluir (CRUD) registros de fornecedores.
 
